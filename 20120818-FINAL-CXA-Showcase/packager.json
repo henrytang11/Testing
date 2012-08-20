@@ -1,0 +1,118 @@
+
+/*****************************************
+************* iPad Configs **********
+******************************************/
+
+{
+	"applicationName":"codeXtremeJeremyIPad",
+	"bundleSeedId":"Y793MV39VU",
+	//"applicationId":"Y793MV39VU.codeXtreme.jeremy",
+	"applicationId":"codeXtreme.jeremy",
+	"versionString":"1.0",
+	"iconName":"resources/icons/Icon~ipad.png",
+	//"inputPath":"/Users/brother/Desktop/Native Henry/native",
+	"inputPath":"./",
+    "outputPath":"./build",
+	//"outputPath":"/Users/brother/Desktop/Native Henry/native/build",
+	"configuration":"Debug",
+	"platform":"iOS",
+	//"platform":"iOSSimulator",
+
+	//"deviceType":"iPad",
+	"deviceType":"iPad",
+
+	//"certificatePath":"/Users/BROTHER/Desktop/Certificates.p12",
+	//"certificateAlias":"iPhone Developer",
+	"certificateAlias":"iPhone Developer: Jeremy Zhong (AB86VKD2J5)",
+	"provisionProfile":"/Users/brother/Library/MobileDevice/Provisioning Profiles/49D902CE-EE7A-4F72-8545-C269F541DF47.mobileprovision",
+	 //"provisionProfile":"~/Users/BROTHER/Desktop/codeXtremeJeremy.mobileprovision", 
+	"orientations": [
+		"portrait",
+		"landscapeLeft",
+		"landscapeRight",
+		"portraitUpsideDown"
+	]
+}
+
+
+
+
+
+/*****************************************
+************* iPhone Configs **********
+******************************************
+
+{
+	"applicationName":"codeXtremeJeremyIPhone",
+	"bundleSeedId":"Y793MV39VU",
+	//"applicationId":"Y793MV39VU.codeXtreme.jeremy",
+	"applicationId":"codeXtreme.JeremyIPhone",
+	"versionString":"1.0",
+	"iconName":"resources/icons/Icon~ipad.png",
+	//"inputPath":"/Users/brother/Desktop/Native Henry/native",
+	"inputPath":"./",
+    "outputPath":"./build",
+	//"outputPath":"/Users/brother/Desktop/Native Henry/native/build",
+	"configuration":"Debug",
+	"platform":"iOS",
+	//"platform":"iOSSimulator",
+
+	//"deviceType":"iPad",
+	"deviceType":"iPhone",
+
+	//"certificatePath":"/Users/BROTHER/Desktop/Certificates.p12",
+	//"certificateAlias":"iPhone Developer",
+	"certificateAlias":"iPhone Developer: Jeremy Zhong (AB86VKD2J5)",
+	"provisionProfile":"/Users/brother/Library/MobileDevice/Provisioning Profiles/1F8A3147-9444-49DD-B3BF-93D1285ECC07.mobileprovision",
+	 //"provisionProfile":"~/Users/BROTHER/Desktop/codeXtremeJeremy.mobileprovision", 
+	"orientations": [
+		"portrait",
+		"landscapeLeft",
+		"landscapeRight",
+		"portraitUpsideDown"
+	]
+}
+
+
+
+
+
+
+
+/*****************************************
+************* DEBUG Configs **********
+******************************************
+
+{
+	"applicationName":"codeXtremeJeremyIPhone",
+	"bundleSeedId":"Y793MV39VU",
+	//"applicationId":"Y793MV39VU.codeXtreme.jeremy",
+	"applicationId":"codeXtreme.JeremyIPhone",
+	"versionString":"1.0",
+	"iconName":"resources/icons/Icon~ipad.png",
+	//"inputPath":"/Users/brother/Desktop/Native Henry/native",
+	"inputPath":"./",
+    "outputPath":"./build",
+	//"outputPath":"/Users/brother/Desktop/Native Henry/native/build",
+	"configuration":"Debug",
+	"platform":"iOSSimulator",
+	//"platform":"iOSSimulator",
+
+	//"deviceType":"iPad",
+	"deviceType":"iPhone",
+
+	//"certificatePath":"/Users/BROTHER/Desktop/Certificates.p12",
+	//"certificateAlias":"iPhone Developer",
+	"certificateAlias":"iPhone Developer: Jeremy Zhong (AB86VKD2J5)",
+	"provisionProfile":"/Users/brother/Library/MobileDevice/Provisioning Profiles/1F8A3147-9444-49DD-B3BF-93D1285ECC07.mobileprovision",
+	 //"provisionProfile":"~/Users/BROTHER/Desktop/codeXtremeJeremy.mobileprovision", 
+	"orientations": [
+		"portrait",
+		"landscapeLeft",
+		"landscapeRight",
+		"portraitUpsideDown"
+	]
+}
+
+*/
+
